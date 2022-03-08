@@ -7,7 +7,7 @@
     "dev": "rollup -c rollup.config.js -w",
     "build": "rm -rf dist && rollup -c rollup.config.js",
     "commit": "git-cz",
-    "semantic-release": "semantic-release --branches main"
+    "semantic-release": "semantic-release --branches master"
   },
   "author": "Rohit Kashyap",
   "license": "ISC",
