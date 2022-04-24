@@ -3,7 +3,7 @@
 
 A horizontal scrolling utility for react apps, just pass your data to get started.
 
-## Quick start
+## Quick start 
 
 ```npm install @rohitpotato/react-horizontal-scroller```
 
